@@ -20,4 +20,5 @@
 
 ## Mock-up image
 
-![The](./Users/Alba/Bcamp/01-HTML-Git-CSS/02-Homework/Develop/assets/images/Bcamp-01-HTML-Git-CSS-02-Homework-Develop-index-html-2021-12-02-01_52_40.png)
+![Bcamp-01-HTML-Git-CSS-02-Homework-Develop-index-html-2021-12-02-01_52_40](https://user-images.githubusercontent.com/94097708/144543723-51c16e92-9e56-4517-a307-f4d98f219674.png)
+
